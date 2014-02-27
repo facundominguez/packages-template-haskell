@@ -93,7 +93,7 @@ module Language.Haskell.TH(
 	dyn, global, varE, conE, litE, appE, uInfixE, parensE,
 	infixE, infixApp, sectionL, sectionR,
 	lamE, lam1E, lamCaseE, tupE, condE, multiIfE, letE, caseE, appsE,
-	listE, sigE, recConE, recUpdE, stringE, fieldExp,
+	listE, sigE, recConE, recUpdE, stringE, fieldExp, staticE,
     -- **** Ranges
     fromE, fromThenE, fromToE, fromThenToE,
 
